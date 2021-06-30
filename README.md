@@ -41,7 +41,7 @@ wget -qO- https://cdn.jsdelivr.net/gh/YG-tsj/EUserv-warp/warp4.sh|bash
 ```
 #### 脚本2：IPV4与IPV6都是WARP分配的IP
 ```
-wget -qO- https://cdn.jsdelivr.net/gh/YG-tsj/EUserv-warp/warp64.sh|bash
+wget -qO- https://cdn.jsdelivr.net/gh/misakateam/EUserv-warp/warp64.sh|bash
 ```
 ----------------------------------------------------------------------------------------------------
 #### Netflix检测项目：https://github.com/YG-tsj/Netflix-Check
